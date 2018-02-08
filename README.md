@@ -23,7 +23,7 @@ You might be asking your self at this point: why not just extract the text from 
 
 We'll wait here while you try that out...
 
-Done?
+Done? OK. Make sure to specify where to move the image file or else Automator will bury deep deep in the directory structure. Also, if you're following along, name the file `extractme.jpeg`.
 
 **Step 3** is to use Tesseract to extract the text from your image file and put it into a TXT file. Like with Step 2, there's plenty of good tutorials out there on how to install and use Tesseract. But if you absolutely can't Google, try this [one](https://www.youtube.com/watch?v=QhJiOCwz-_I) out. Try playing around with the page segmentation modes in Tessearct for non-standard text layouts.
 
