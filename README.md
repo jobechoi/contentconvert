@@ -7,9 +7,9 @@ Shall we?
 
 ## Part 1: Convince yourself that monkeywork is best left to simians.
 
-How many times have you been asked to just "throw together" an e-learning module from some Powerpoints or a hardbound manual. The assumption, good or bad, is that since the content is already there, that putting it into a different format should be pretty effortless. Yeah right.
+How many times have you been asked to just "throw together" an e-learning module from some Powerpoints or a hardbound manual. The assumption, good or bad, is that since the content is already there, that putting it into a different format should be pretty effortless.
 
-But you say "sure boss" and get to the braindeadening task of rekeying the content into a webpage or some digital format, by basically retyping what's in one form into one that more closely matches your solution. Shoot me now.
+But you say "sure boss" and get to the braindeadening task of rekeying the content into a webpage or some digital format, by basically retyping what's in one form into one that more closely matches your solution.
 
 This is one of those moments where being extremely lazy will in the end pay off, and, may even scale alot better and faster.
 
